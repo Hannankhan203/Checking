@@ -56,8 +56,8 @@ label {
 }
 
 .draw-msg {
-  border: 2px solid black;
-  left: 5%;
+/*   border: 2px solid black; */
+  left: 3%;
   text-align: center;
   width: 100%;
   font-size: 20px;
