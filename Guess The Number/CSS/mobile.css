@@ -1,0 +1,42 @@
+.heading {
+  font-size: 2rem;
+  margin-top: 20px;
+}
+
+/* Toggle Mode */
+
+label {
+  /* border: 2px solid black; */
+  right: 10%;
+}
+
+.main-game {
+  /* border: 2px solid black; */
+  width: 90%;
+  left: 5%;
+}
+
+.range {
+  /* border: 2px solid black; */
+  font-size: 13px;
+}
+
+.buttons {
+  gap: 1rem;
+}
+
+.submit-btn {
+  font-size: 10px;
+}
+
+.new-btn {
+  font-size: 10px;
+}
+
+.back-btn {
+  font-size: 10px;
+}
+
+.feedback {
+  font-size: 13px;
+}

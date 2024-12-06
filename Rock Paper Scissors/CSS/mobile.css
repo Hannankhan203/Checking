@@ -1,0 +1,49 @@
+label {
+  /* border: 2px solid black; */
+  top: 90%;
+  right: 15%;
+}
+
+.heading {
+  margin-top: 20px;
+  font-size: 2rem;
+}
+
+/* Main Game */
+
+.choices {
+  /* border: 2px solid black; */
+  gap: 2rem;
+}
+
+.choice {
+  height: 60px;
+  width: 60px;
+  /* border: 2px solid black; */
+}
+
+img {
+  height: 40px;
+  width: 40px;
+}
+
+/* Score Board */
+
+.score-board {
+  gap: 5rem;
+  font-size: 20px;
+}
+
+.msg-container {
+  /* border: 2px solid black; */
+  font-size: 0.8rem;
+}
+
+#msg {
+  /* border: 2px solid black; */
+  width: 50%;
+}
+
+.back-btn {
+    font-size: 10px;
+}

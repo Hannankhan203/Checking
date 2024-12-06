@@ -1,0 +1,22 @@
+/* Toggle Checkbox */
+
+label {
+  right: 12%;
+}
+/* Options */
+
+.options-container {
+  top: 15%;
+}
+
+img {
+  width: 80px;
+}
+
+.heading {
+  font-size: 2rem;
+}
+
+.info {
+  font-size: 10px;
+}
