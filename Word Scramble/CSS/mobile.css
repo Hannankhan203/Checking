@@ -1,0 +1,38 @@
+/* Toggle Mode */
+
+label {
+  /* border: 2px solid black; */
+  top: 90%;
+  right: 10%;
+}
+
+.heading {
+  margin-top: 20px;
+  font-size: 2rem;
+}
+
+/* Main Game */
+
+.main-game {
+  /* border: 2px solid black; */
+  height: 60%;
+  width: 90%;
+  left: 5%;
+}
+
+.submit-btn {
+  font-size: 10px;
+}
+
+.new-btn {
+  font-size: 10px;
+}
+
+.result,
+.scrambled-word {
+  font-size: 15px;
+}
+
+.back-btn {
+  font-size: 10px;
+}
